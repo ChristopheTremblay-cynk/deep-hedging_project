@@ -9,4 +9,4 @@ reinforcement learning.
 - Implémenter un environnement de trading
 - Générer des trajectoires Monte Carlo
 - Entraîner un agent RL
-- Comparer avec le delta hedging
+
